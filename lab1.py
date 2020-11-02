@@ -1,0 +1,1 @@
+print("DIKY COK")
